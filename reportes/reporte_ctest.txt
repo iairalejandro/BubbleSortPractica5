@@ -1,0 +1,13 @@
+Test project /home/claude/BubbleSortXUnit/build
+    Start 1: BubbleSorterTest.CP1_C1_UnSoloElemento
+1/4 Test #1: BubbleSorterTest.CP1_C1_UnSoloElemento .............   Passed    0.00 sec
+    Start 2: BubbleSorterTest.CP2_C2_YaOrdenadoSinIntercambio
+2/4 Test #2: BubbleSorterTest.CP2_C2_YaOrdenadoSinIntercambio ...   Passed    0.00 sec
+    Start 3: BubbleSorterTest.CP3_C3_UnIntercambio
+3/4 Test #3: BubbleSorterTest.CP3_C3_UnIntercambio ..............   Passed    0.00 sec
+    Start 4: BubbleSorterTest.CP4_C4_VariasIteracionesMixtas
+4/4 Test #4: BubbleSorterTest.CP4_C4_VariasIteracionesMixtas ....   Passed    0.00 sec
+
+100% tests passed, 0 tests failed out of 4
+
+Total Test time (real) =   0.02 sec

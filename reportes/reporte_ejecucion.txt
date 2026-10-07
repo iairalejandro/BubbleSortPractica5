@@ -1,0 +1,17 @@
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from BubbleSorterTest
+[ RUN      ] BubbleSorterTest.CP1_C1_UnSoloElemento
+[       OK ] BubbleSorterTest.CP1_C1_UnSoloElemento (0 ms)
+[ RUN      ] BubbleSorterTest.CP2_C2_YaOrdenadoSinIntercambio
+[       OK ] BubbleSorterTest.CP2_C2_YaOrdenadoSinIntercambio (0 ms)
+[ RUN      ] BubbleSorterTest.CP3_C3_UnIntercambio
+[       OK ] BubbleSorterTest.CP3_C3_UnIntercambio (0 ms)
+[ RUN      ] BubbleSorterTest.CP4_C4_VariasIteracionesMixtas
+[       OK ] BubbleSorterTest.CP4_C4_VariasIteracionesMixtas (0 ms)
+[----------] 4 tests from BubbleSorterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
